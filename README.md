@@ -44,4 +44,5 @@ The game challenges players to quickly press displayed keys within a time limit,
    ## How to Run
 
 2. Run the game
+   ```bash
    python main.py
