@@ -41,3 +41,7 @@ The game challenges players to quickly press displayed keys within a time limit,
    ```bash
    git clone https://github.com/yankyang/rhythm-reaction.git
    cd rhythm-reaction
+   ## How to Run
+
+2. Run the game
+   python main.py
